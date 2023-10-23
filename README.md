@@ -1,7 +1,7 @@
 # randomprojects
 bunch of projects I'm doing for fun
 
-List of some doable projects I might do.
+List of some doable projects I might do in the future.
 
 AI league winrate- 50% success
 
