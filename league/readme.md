@@ -1,6 +1,6 @@
 Collection of random league client related scripts.
 
-The bulk of the scripts, ("complete scripts"), is to create an active status message system.
+The bulk of the scripts, ("complete scripts"), is to create an active status message system in the game, League of Legends.
 Through testing, I found there was a limit to how frequently you could update your league status (~5 seconds for short messages)
 (~60 seconds for paragraphs)
 I also found there can be de-syncing of client and server when running for a long time. (cause unknown). 
