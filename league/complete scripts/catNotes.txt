@@ -1,0 +1,320 @@
+/lol-game-client-chat/v1/buddies
+	for list of friends
+/lol-chat/v1/conversations
+	shows json for all available chat history
+
+{
+  "availability": "chat",
+  "gameName": "junSoup",
+  "gameTag": "NA1",
+  "icon": 3366,
+  "id": "81ae2f4e-7620-5e4f-b6d1-28c3835bc6fa@na1.pvp.net",
+  "lastSeenOnlineTimestamp": null,
+  "lol": {
+    "bannerIdSelected": "2",
+    "challengeCrystalLevel": "PLATINUM",
+    "challengePoints": "9035",
+    "challengeTitleSelected": "68af6c96-9c1f-9ae6-1ec1-3b51d1ae98dd",
+    "challengeTokensSelected": "203102,401305,210004",
+    "championId": "",
+    "companionId": "9010",
+    "damageSkinId": "1",
+    "gameQueueType": "",
+    "gameStatus": "outOfGame",
+    "iconOverride": "companion",
+    "level": "553",
+    "mapId": "",
+    "mapSkinId": "12",
+    "masteryScore": "506",
+    "puuid": "81ae2f4e-7620-5e4f-b6d1-28c3835bc6fa",
+    "rankedLeagueDivision": "IV",
+    "rankedLeagueQueue": "RANKED_SOLO_5x5",
+    "rankedLeagueTier": "PLATINUM",
+    "rankedLosses": "0",
+    "rankedPrevSeasonDivision": "IV",
+    "rankedPrevSeasonTier": "PLATINUM",
+    "rankedSplitRewardLevel": "0",
+    "rankedWins": "98",
+    "regalia": "{\"bannerType\":2,\"crestType\":1,\"selectedPrestigeCrest\":23}",
+    "skinVariant": "",
+    "skinname": ""
+  },
+  "name": "junSoup",
+  "obfuscatedSummonerId": 0,
+  "patchline": "live",
+  "pid": "81ae2f4e-7620-5e4f-b6d1-28c3835bc6fa@na1.pvp.net",
+  "platformId": "NA1",
+  "product": "league_of_legends",
+  "productName": "",
+  "puuid": "81ae2f4e-7620-5e4f-b6d1-28c3835bc6fa",=
+
+
+
+
+
+
+  {
+    "gameName": "Oncologist",
+    "gameTag": "NA1",
+    "id": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "hey check out this discord https://discord.gg/mPUzD8hnxU if the discord link doesnt work use their website https://epicgifting.com/",
+      "fromId": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+      "fromSummonerId": 44710851,
+      "id": "1682889717466:1",
+      "isHistorical": true,
+      "timestamp": "2023-04-30T21:21:58.436Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "Oncologist",
+    "password": "",
+    "pid": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  },
+  {
+    "gameName": "Megaloceros",
+    "gameTag": "NA1",
+    "id": "e5a48885-f231-50c7-9379-45f6a9e8e127@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "Awe okay",
+      "fromId": "e5a48885-f231-50c7-9379-45f6a9e8e127@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "e5a48885-f231-50c7-9379-45f6a9e8e127@na1.pvp.net",
+      "fromSummonerId": 111259150,
+      "id": "1682921984197:18",
+      "isHistorical": true,
+      "timestamp": "2023-05-01T06:19:42.422Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "Megaloceros",
+    "password": "",
+    "pid": "e5a48885-f231-50c7-9379-45f6a9e8e127@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  },
+  {
+    "gameName": "twice is my babe",
+    "gameTag": "NA1",
+    "id": "ecf14b96-5cfb-5d22-80ef-edcf2f3aac19@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "cancer players",
+      "fromId": "ecf14b96-5cfb-5d22-80ef-edcf2f3aac19@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "ecf14b96-5cfb-5d22-80ef-edcf2f3aac19@na1.pvp.net",
+      "fromSummonerId": 105109132,
+      "id": "1682997419810:38",
+      "isHistorical": true,
+      "timestamp": "2023-05-02T03:16:57.651Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "twice is my babe",
+    "password": "",
+    "pid": "ecf14b96-5cfb-5d22-80ef-edcf2f3aac19@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  },
+  {
+    "gameName": "decafmatcha",
+    "gameTag": "NA1",
+    "id": "a43e2bfa-35ae-5f1c-8567-63d3a3b6fe2f@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "good luck!!!!!",
+      "fromId": "81ae2f4e-7620-5e4f-b6d1-28c3835bc6fa@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "81ae2f4e-7620-5e4f-b6d1-28c3835bc6fa@na1.pvp.net",
+      "fromSummonerId": 44564586,
+      "id": "1683183879526:12",
+      "isHistorical": true,
+      "timestamp": "2023-05-04T07:04:39.117Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "decafmatcha",
+    "password": "",
+    "pid": "a43e2bfa-35ae-5f1c-8567-63d3a3b6fe2f@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  },
+  {
+    "gameName": "jaedoh",
+    "gameTag": "NA1",
+    "id": "ecdf023b-cf48-5e22-a5c6-77389e0b2d53@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "aight",
+      "fromId": "ecdf023b-cf48-5e22-a5c6-77389e0b2d53@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "ecdf023b-cf48-5e22-a5c6-77389e0b2d53@na1.pvp.net",
+      "fromSummonerId": 49206421,
+      "id": "1683791778003:4",
+      "isHistorical": true,
+      "timestamp": "2023-05-11T07:56:16.407Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "jaedoh",
+    "password": "",
+    "pid": "ecdf023b-cf48-5e22-a5c6-77389e0b2d53@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  },
+  {
+    "gameName": "Kanek1Ken",
+    "gameTag": "NA1",
+    "id": "a92319b4-b698-5b0a-87a9-3a9c4d5fa1e9@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "I just got up....",
+      "fromId": "a92319b4-b698-5b0a-87a9-3a9c4d5fa1e9@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "a92319b4-b698-5b0a-87a9-3a9c4d5fa1e9@na1.pvp.net",
+      "fromSummonerId": 105539699,
+      "id": "1683798941948:8",
+      "isHistorical": true,
+      "timestamp": "2023-05-11T09:55:39.774Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "Kanek1Ken",
+    "password": "",
+    "pid": "a92319b4-b698-5b0a-87a9-3a9c4d5fa1e9@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  },
+  {
+    "gameName": "blissful death",
+    "gameTag": "his",
+    "id": "3356ecb1-15f3-5294-863d-84cdca9c904e@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": null,
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "eterníty",
+    "password": "",
+    "pid": "3356ecb1-15f3-5294-863d-84cdca9c904e@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  },
+  {
+    "gameName": "junsulee2000",
+    "gameTag": "NA1",
+    "id": "bc70f9ef-cfcb-5454-ad4a-81a7a875d371@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "test5",
+      "fromId": "bc70f9ef-cfcb-5454-ad4a-81a7a875d371@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "bc70f9ef-cfcb-5454-ad4a-81a7a875d371@na1.pvp.net",
+      "fromSummonerId": 73033232,
+      "id": "1684809279100:5",
+      "isHistorical": true,
+      "timestamp": "2023-05-23T02:34:39.069Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "junsulee2000",
+    "password": "",
+    "pid": "bc70f9ef-cfcb-5454-ad4a-81a7a875d371@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  }
+]
+81ae2f4e-7620-5e4f-b6d1-28c3835bc6fa@na1.pvp.net
+44564586
+
+{
+    "gameName": "Oncologist",
+    "gameTag": "NA1",
+    "id": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+    "inviterId": "",
+    "isMuted": false,
+    "lastMessage": {
+      "body": "hey check out this discord https://discord.gg/mPUzD8hnxU if the discord link doesnt work use their website https://epicgifting.com/",
+      "fromId": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+      "fromObfuscatedSummonerId": 0,
+      "fromPid": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+      "fromSummonerId": 44710851,
+      "id": "1682889717466:1",
+      "isHistorical": true,
+      "timestamp": "2023-04-30T21:21:58.436Z",
+      "type": "chat"
+    },
+    "mucJwtDto": {
+      "channelClaim": "",
+      "domain": "",
+      "jwt": "",
+      "targetRegion": ""
+    },
+    "name": "Oncologist",
+    "password": "",
+    "pid": "b04b54a7-d14b-549b-afc2-b49ba2d9a571@na1.pvp.net",
+    "targetRegion": "na1",
+    "type": "chat",
+    "unreadMessageCount": 0
+  }
+

@@ -1,0 +1,10 @@
+
+body {
+    display: block;
+    text-align: center;
+    background-color: #BBB;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    display: inline;
+}
