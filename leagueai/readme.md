@@ -6,23 +6,24 @@ Revise network to be sequential. It was never able to learn that picked champion
 Files:
 
 Data processing:
-	champSequencer.py:
+
+champSequencer.py:
 	for getting list of champion ids. the ids are not 0-n but rather just random numbers. Creates a one-to-one map of champion id's to 0-n ids
-
-	DataCollector.py:
+ 
+dataCollector.py:
 	my tool to farm games using riot APIs. They have a rate limit of like ~1.2 calls / second. I create a pseudo multi-thread setup (it's just one thread but it rotates through keys that are available per tick) for utilizing multiple keys.
-	output format is winning 5 champion ids, 5 losing champ ids
+ output format is winning 5 champion ids, 5 losing champ ids
 
-	simulator.py:
+simulator.py:
 	inputs output from DataCollector.py to "simulate" additional games by simulating other pick orders. At this point, the data is a massive file.
 	
-	pickai.py:
+pickai.py:
 	inputs output from simulator.py to one-hot encode the data champion id. This is important since similar id values hold no meaning. transforms cvs, (plain ascii) to sparse tensors. This saves a lot of space.
 
 Neural net:
 	teampicker.py:
 	inputs output from pickai.py. This is converted to a dataset and used to train a neural network. After training, the weights and biases are saved for future use. Uses GPU for cuda cores.
 	
-	predictor.py:
+predictor.py:
 	loads in saved weights for user testing.
 
